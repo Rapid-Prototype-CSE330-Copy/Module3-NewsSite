@@ -1,5 +1,5 @@
 # CSE330
-#Authors:
+- Authors:
 - Name: Yuxiang Huang; Github username: huangyuxiang98
 - Name: Allen Huang; Github username: BamiNam
 - Link to news site: http://ec2-54-234-143-165.compute-1.amazonaws.com/~huangyuxiang98/module3-group-455009-477023/portal.php
